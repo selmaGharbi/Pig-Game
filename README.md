@@ -1,4 +1,6 @@
 # Pig-game
+![PigGameScreenshot](https://github.com/selmaGharbi/Pig-game/assets/167712525/ec8dfa40-b49e-48b0-8d96-a22977a9e8a6)
+
 Dice rolls and keep your score
 ![PigGameFlowchart](https://github.com/selmaGharbi/Pig-game/assets/167712525/89db5543-75a8-4061-b3f8-df985cd84d4e)
 
